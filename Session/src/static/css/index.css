@@ -1,0 +1,16 @@
+    .cont .row .one {
+        margin-left: 4%;
+    }
+    
+    .cont .row .two {
+        margin-left: 6%;
+    }
+    
+    .cont .row .three {
+        margin-left: 8%;
+    }
+    
+    .cont .row .page-header h4 {
+        color: whitesmoke;
+        background: #2fcaed;
+    }
